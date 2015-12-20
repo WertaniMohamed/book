@@ -1,0 +1,17 @@
+com\tn\esprit\book\services\UserService.class
+com\tn\esprit\book\persistence\User.class
+com\tn\esprit\book\persistence\Category.class
+com\tn\esprit\book\services\UserServiceLocal.class
+com\tn\esprit\book\persistence\Transaction.class
+com\tn\esprit\book\services\CatalogServiceRemote.class
+com\tn\esprit\book\persistence\Admin.class
+com\tn\esprit\book\persistence\Customer.class
+com\tn\esprit\book\services\UserServiceRemote.class
+com\tn\esprit\book\services\CatalogService.class
+com\tn\esprit\book\services\TransactionService.class
+com\tn\esprit\book\persistence\Product.class
+com\tn\esprit\book\persistence\TransactionPK.class
+com\tn\esprit\book\services\TransactionServiceRemote.class
+com\tn\esprit\book\util\DBPopulator.class
+com\tn\esprit\book\services\CatalogServiceLocal.class
+com\tn\esprit\book\services\TransactionServiceLocal.class
